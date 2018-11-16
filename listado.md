@@ -11,7 +11,7 @@ Pérez Labrada, Pedro José
 Prado Izquierdo, Francisco José
 Quevedo García, Salud
 Rabanal Márquez, Fernando Manuel
-Romero Cano, Abraham
+~~Romero Cano, Abraham~~
 Tirado Román, José Antonio
 Vidal Román, Samuel
 Villegas Cobos, José Vicente
